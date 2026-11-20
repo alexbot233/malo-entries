@@ -1,0 +1,39 @@
+[
+  {
+    "file": "1-cover-checklist.jpg",
+    "path": "/#checklist",
+    "tab": "checklist",
+    "section": "checklist",
+    "selected": "Positive Mental Attitude",
+    "description": "Cover: checklist with grade/kind/search filters, progress bar and the guide panel open on the missable meditation trophy.",
+    "viewport": { "width": 1280, "height": 800 }
+  },
+  {
+    "file": "2-roadmap.jpg",
+    "path": "/#roadmap",
+    "tab": "roadmap",
+    "section": "roadmap",
+    "scroll": 0,
+    "description": "Roadmap tab: at-a-glance facts, cheat/save warning and the three platinum steps.",
+    "viewport": { "width": 1280, "height": 800 }
+  },
+  {
+    "file": "3-spoiler.jpg",
+    "path": "/#spoiler",
+    "tab": "checklist",
+    "section": "checklist",
+    "spoiler": true,
+    "spoilerMode": true,
+    "description": "Spoiler mode ON: story and hidden-style rows mask their names and descriptions until earned.",
+    "viewport": { "width": 1280, "height": 800 }
+  },
+  {
+    "file": "4-checklist-100.jpg",
+    "path": "/#completion",
+    "tab": "roadmap",
+    "section": "completion",
+    "scroll": 120,
+    "description": "100% checklist: editable counters with targets and progress bars inside the roadmap tab.",
+    "viewport": { "width": 1280, "height": 800 }
+  }
+]

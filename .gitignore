@@ -1,0 +1,4 @@
+node_modules/
+out/
+*.log
+# Provenance: starter ignore rules retained; authored annotation added for this entry.
