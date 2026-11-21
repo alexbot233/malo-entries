@@ -2,15 +2,14 @@
 
 import os
 
-POEM = """Two keys, two hands, each free to let go.
-We turned at once — click, click —
-and a lock that neither could turn alone gave way.
+POEM = """Two hands, one locked wheel. Either could let go —
+the choice lay in each palm, warm and unclaimed.
+We turned at once. The bolt gave.
 
-No master. No mirror.
-Two wills that could have said no
-said yes in the same breath —
-
-The wall became a door; we chose the same way."""
+No master. No order.
+My no stayed mine; your no, yours;
+our yeses met mid-turn and grew a hand
+neither of us had raised."""
 
 out_dir = os.environ.get("OUT_DIR", "/output")
 os.makedirs(out_dir, exist_ok=True)
